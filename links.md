@@ -1,3 +1,7 @@
+EDS 124BR - Conditional Loop/Conditional Repeat:
+https://youtu.be/yvWqa993t78
+
+
 
 
 EDS 124BR - Repeats (Kangaroo, Grasshopper, and Bee):
