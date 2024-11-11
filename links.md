@@ -1,3 +1,9 @@
+EDS 124BR - If Else:
+https://youtu.be/7LX05oKLotE
+
+
+
+
 EDS 124BR - Conditional Loop/Conditional Repeat:
 https://youtu.be/yvWqa993t78
 
